@@ -126,4 +126,4 @@ dmypy.json
 
 games.json
 __pycache__/
-.env
+.envtracking.json 
