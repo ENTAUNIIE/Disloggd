@@ -93,10 +93,6 @@ Interface web pour consulter ses stats
 
 Disloggd n'est affilié à aucun service externe type Steam, HLTB ou Backloggd.
 
-yaml
-Copier
-Modifier
-
 ---
 
 ## 🛠 Et ensuite ?
